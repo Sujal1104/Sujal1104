@@ -94,7 +94,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Sujal1104/Sujal1104/output/snake.svg" alt="Snake animation" />
-
-###
