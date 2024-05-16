@@ -1,4 +1,3 @@
-# Sujal_Mansuri
 <div align="center">
   <a href="https://www.linkedin.com/in/sujal-mansuri-b9aa55228/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -22,7 +21,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there 👋I Am Sujal Mansuri</h1>
 
 ###
 
@@ -93,5 +92,13 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Sujal1104&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/Sujal1104/Sujal1104/output/snake.svg" alt="Snake animation" />
 
 ###
